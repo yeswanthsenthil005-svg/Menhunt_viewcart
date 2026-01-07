@@ -1,14 +1,14 @@
-# 🛒 Menhunt_viewcart - E-Commerce Beauty Store
+#  Menhunt_viewcart - E-Commerce Beauty Store
 
 A modern e-commerce application with React, TypeScript, and Razorpay payment integration.
 
 ## ✨ Features
 
-- 🛒 Shopping Cart with add/remove/update functionality
-- 💳 Razorpay Payment Gateway (UPI, Cards, NetBanking, Wallets)
-- 🔐 User Authentication with Supabase
-- 📱 Responsive Design with Tailwind CSS
-- 💾 MongoDB Database for order storage
+-  Shopping Cart with add/remove/update functionality
+-  Razorpay Payment Gateway (UPI, Cards, NetBanking, Wallets)
+-  User Authentication with Supabase
+-  Responsive Design with Tailwind CSS
+-  MongoDB Database for order storage
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +18,7 @@ A modern e-commerce application with React, TypeScript, and Razorpay payment int
 
 **Auth:** Supabase
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install Dependencies
 
