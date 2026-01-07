@@ -2,7 +2,7 @@
 
 A modern e-commerce application with React, TypeScript, and Razorpay payment integration.
 
-## ✨ Features
+##  Features
 
 -  Shopping Cart with add/remove/update functionality
 -  Razorpay Payment Gateway (UPI, Cards, NetBanking, Wallets)
@@ -10,7 +10,7 @@ A modern e-commerce application with React, TypeScript, and Razorpay payment int
 -  Responsive Design with Tailwind CSS
 -  MongoDB Database for order storage
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui
 
